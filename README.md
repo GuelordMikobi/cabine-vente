@@ -43,3 +43,12 @@ cabine-vente/
 ```
 
 Cette organisation est volontairement indépendante du langage utilisé. Les sous-dossiers de `src/` pourront être précisés lorsque la technologie et les fonctionnalités principales seront définies.
+
+## Configuration initiale
+
+Le projet peut accueillir du code JavaScript/Node.js et Python :
+
+- `package.json` décrit le projet Node.js, avec un script de test initial (`npm test`).
+- `requirements.txt` accueillera les dépendances Python lorsqu’elles seront définies.
+
+Aucune dépendance externe n’est imposée pour le moment.

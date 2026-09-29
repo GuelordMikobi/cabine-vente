@@ -1,0 +1,13 @@
+{
+  "name": "cabine-vente",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Projet de gestion et de présentation d’une cabine de vente.",
+  "type": "module",
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
