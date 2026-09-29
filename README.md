@@ -29,3 +29,17 @@ Les suggestions et contributions sont les bienvenues. Ouvrez une issue pour sign
 ## Licence
 
 À définir.
+
+## Structure du projet
+
+```text
+cabine-vente/
+├── assets/      # Images, icônes et autres ressources statiques
+├── config/      # Fichiers de configuration
+├── docs/        # Documentation du projet
+├── scripts/     # Scripts utilitaires et automatisations
+├── src/         # Code source de l’application
+└── tests/       # Tests automatisés
+```
+
+Cette organisation est volontairement indépendante du langage utilisé. Les sous-dossiers de `src/` pourront être précisés lorsque la technologie et les fonctionnalités principales seront définies.
